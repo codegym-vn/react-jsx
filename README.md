@@ -1,5 +1,5 @@
 # ComponentReactNative
-
+Mã nguồn ComponentReactNative được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 # Mục tiêu bài học
 - Hiểu được khái niệm JSX
 - Biết cách dùng JSX trong React Component
